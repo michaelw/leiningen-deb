@@ -1,0 +1,5 @@
+leiningen (2.6.1-1) trusty; urgency=low
+
+  * Initial release 
+
+ -- Mike Gedelman <mikegedelman@gmail.com>  Wed, 24 Feb 2016 17:42:24 -0600

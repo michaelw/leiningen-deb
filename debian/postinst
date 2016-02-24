@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "Note: the first time you run lein, it will automatically finish installing."

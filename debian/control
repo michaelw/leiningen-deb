@@ -1,0 +1,15 @@
+Source: leiningen
+Section: java
+Priority: optional
+Maintainer: Mike Gedelman <mikegedelman@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: http://leiningen.org
+#Vcs-Git: git://git.debian.org/collab-maint/lein.git
+Vcs-Browser: https://github.com/technomancy/leiningen
+
+Package: leiningen
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: automate Clojure projects without setting your hair on fire
+ This package tracks the stable branch of the leiningen github repo.
