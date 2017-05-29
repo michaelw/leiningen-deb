@@ -1,3 +1,9 @@
+leiningen (2.7.1-1) xenial; urgency=medium
+
+   * new upstream
+
+ -- Michael Weber <mweber@instartlogic.com>  Mon, 29 May 2017 05:04:41 +0000
+
 leiningen (2.6.1-1) trusty; urgency=low
 
   * Initial release 
